@@ -1,0 +1,10 @@
+rmin 0.0
+ramx 0.05
+alfaair 300
+tempbegin 100
+tempair 1200
+C 700
+Ro 7800
+K 25
+TauMax 1000
+nh 51
